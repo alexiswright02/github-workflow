@@ -1,1 +1,5 @@
-{ "name": "Fullstack Academy", "course": "ACC WebDev", "status": "learning!" }
+{
+    "name": "Fullstack Academy",
+    "course": "ACC WebDev",
+    "status": "learning!"
+}
